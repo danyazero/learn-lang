@@ -11,9 +11,10 @@ public class MyApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(MyApplication.class.getResource("main.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+        Scene scene = new Scene(fxmlLoader.load(), 320, 600);
         stage.setTitle("Zero lang");
         stage.setScene(scene);
+        stage.setResizable(false);
         stage.show();
     }
 
