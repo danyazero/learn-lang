@@ -15,8 +15,6 @@ public class MainController {
     public MenuBar menuBar;
     public Label bottomText;
     public Label topText;
-    @FXML
-    private Label welcomeText;
 
     private int id = 0;
     private IO io;
