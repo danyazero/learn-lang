@@ -19,10 +19,11 @@ public class MainController {
     private Label welcomeText;
 
     private int id = 0;
+    private IO io;
+    private List<FileOutput> list;
 
-
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to Zero lang Application!");
+    public void initialize(){
+        list = io.readObjectsFromJSON();
     }
 
     public void instagramLink(ActionEvent actionEvent) {
