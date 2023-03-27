@@ -5,82 +5,93 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<BorderPane minHeight="400" minWidth="320" prefHeight="600" prefWidth="320" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.danyazero.learnlang.MainController">
-    <top>
 
+<AnchorPane xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.danyazero.learnlang.MainController">
+   <children>
+      <BorderPane prefHeight="600" prefWidth="600">
+          <top>
+      
+      
+              <MenuBar fx:id="menuBar" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+                  <Menu text="File">
+                      <MenuItem text="New" />
+                      <MenuItem text="Open" />
+                      <MenuItem text="Save" />
+                      <MenuItem text="Save As" />
+                      <SeparatorMenuItem />
+                      <MenuItem text="Exit" />
+                  </Menu>
+                  <Menu text="Edit">
+                      <MenuItem text="Copy" />
+                      <MenuItem text="Cut" />
+                      <MenuItem text="Paste" />
+                  </Menu>
+                  <Menu text="Social">
+                      <MenuItem text="Online Manual" visible="false" />
+                      <SeparatorMenuItem />
+                      <MenuItem text="About" />
+                  </Menu>
+              </MenuBar>
+      
+          </top>
+      
+      
+          <center>
+              <VBox alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" spacing="80">
+                  <Label fx:id="topText" text="First language text">
+                  <font>
+                     <Font size="24.0" />
+                  </font>
+               </Label>
+      
+                  <Button onAction="#showAnswer" text="Відповідь">
+                      <padding>
+                          <Insets bottom="8.0" left="15.0" right="15.0" top="8.0" />
+                      </padding>
+                      <font>
+                          <Font size="14.0" />
+                      </font>
+                  </Button>
+      
+                  <Label fx:id="bottomText" text="First language text" visible="false">
+                  <font>
+                     <Font size="24.0" />
+                  </font>
+               </Label>
+              </VBox>
+          </center>
+         <bottom>
+            <BorderPane>
+      
+               <left>
+                   <Button mnemonicParsing="false" onAction="#previousButtonHandler" text="Prev">
+                       <padding>
+                           <Insets bottom="8.0" left="15.0" right="15.0" top="8.0" />
+                       </padding>
+                       <font>
+                           <Font size="14.0" />
+                       </font>
+                   </Button>
+               </left>
 
-        <MenuBar fx:id="menuBar" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
-            <Menu text="File">
-                <MenuItem text="New" />
-                <MenuItem text="Open" />
-                <MenuItem text="Save" />
-                <MenuItem text="Save As" />
-                <SeparatorMenuItem />
-                <MenuItem text="Exit" />
-            </Menu>
-            <Menu text="Edit">
-                <MenuItem text="Copy" />
-                <MenuItem text="Cut" />
-                <MenuItem text="Paste" />
-            </Menu>
-            <Menu text="Social">
-                <MenuItem onAction="#instagramLink" text="Instagram" />
-                <MenuItem text="Online Manual" visible="false" />
-                <SeparatorMenuItem />
-                <MenuItem text="About" />
-            </Menu>
-        </MenuBar>
-
-    </top>
-
-
-    <center>
-        <VBox alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" spacing="80">
-            <Label fx:id="topText" text="First language text">
-            <font>
-               <Font size="24.0" />
-            </font></Label>
-
-            <Button text="Відповідь" onAction="#showAnswer">
-                <padding>
-                    <Insets bottom="8.0" left="15.0" right="15.0" top="8.0" />
-                </padding>
-                <font>
-                    <Font size="14.0" />
-                </font>
-            </Button>
-
-            <Label fx:id="bottomText" visible="false" text="First language text">
-            <font>
-               <Font size="24.0" />
-            </font></Label>
-        </VBox>
-    </center>
-   <bottom>
-      <BorderPane>
-
-         <left>
-             <Button mnemonicParsing="false" text="Prev" BorderPane.alignment="CENTER">
-                 <padding>
-                     <Insets bottom="8.0" left="15.0" right="15.0" top="8.0" />
-                 </padding>
-                 <font>
-                     <Font size="14.0" />
-                 </font>
-             </Button>
-         </left>
-
-         <right>
-            <Button mnemonicParsing="false" onAction="#nextButtonHandler" text="Next" BorderPane.alignment="CENTER">
-               <padding>
-                  <Insets bottom="8.0" left="15.0" right="15.0" top="8.0" />
-               </padding>
-               <font>
-                  <Font size="14.0" />
-               </font></Button>
-         </right>
+                <center>
+                    <Label fx:id="idLabel" text=""/>
+                </center>
+      
+               <right>
+                  <Button mnemonicParsing="false" onAction="#nextButtonHandler" text="Next">
+                     <padding>
+                        <Insets bottom="8.0" left="15.0" right="15.0" top="8.0" />
+                     </padding>
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Button>
+               </right>
+            </BorderPane>
+         </bottom>
+      
+      
       </BorderPane>
-   </bottom>
-
-
-</BorderPane>
+   </children>
+</AnchorPane>

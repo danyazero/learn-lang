@@ -8,6 +8,10 @@
       </list>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="http://javafx.com/fxml/1" location="$PROJECT_DIR$" />
+    <resource url="http://javafx.com/javafx/17.0.2-ea" location="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="liberica-20" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
