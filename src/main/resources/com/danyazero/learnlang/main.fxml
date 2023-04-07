@@ -15,8 +15,8 @@
               <MenuBar fx:id="menuBar" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
                   <Menu text="Options">
                       <MenuItem onAction="#goToOptionHandler" text="Go to..." />
-                      <MenuItem text="Open" />
-                      <MenuItem text="Save" />
+                      <MenuItem onAction="#randomOrderOptionHandler" text="Random" />
+                      <MenuItem onAction="#offRandomOrderHandler" text="Off Random" />
                       <MenuItem text="Save As" />
                       <SeparatorMenuItem />
                       <MenuItem text="Exit" />
