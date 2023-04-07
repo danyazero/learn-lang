@@ -1,9 +1,9 @@
 package IO;
 
-import models.FileOutput;
+import models.Word;
 
 import java.util.List;
 
 public interface IO {
-    public List<FileOutput> readObjectsFromJSON();
+    public List<Word> readObjectsFromJSON();
 }

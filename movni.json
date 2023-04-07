@@ -1,1166 +1,778 @@
 [
   {
-    "firstForm": "arise",
-    "secondForm": "arose",
-    "thirdForm": "arisen",
+    "english": "arise, arose, arisen",
     "translate": "возникать, происходить, подниматься"
   },
   {
-    "firstForm": "abide",
-    "secondForm": "abode",
-    "thirdForm": "abode",
+    "english": "abide, abode, abode",
     "translate": "пребывать, жить, придерживаться чего-либо"
   },
   {
-    "firstForm": "awake",
-    "secondForm": "awoke",
-    "thirdForm": "awoken",
+    "english": "awake, awoke, awoken",
     "translate": "будить, просыпаться, быть разбуженным"
   },
   {
-    "firstForm": "be",
-    "secondForm": "was (were)",
-    "thirdForm": "been",
+    "english": "be, was (were), been",
     "translate": "быть"
   },
   {
-    "firstForm": "bear",
-    "secondForm": "bore",
-    "thirdForm": "born",
+    "english": "bear, bore, born",
     "translate": "носить, рождать"
   },
   {
-    "firstForm": "beat",
-    "secondForm": "beat",
-    "thirdForm": "beaten",
+    "english": "beat, beat, beaten",
     "translate": "бить, вы-, от-, из-"
   },
   {
-    "firstForm": "become",
-    "secondForm": "became",
-    "thirdForm": "become",
+    "english": "become, became, become",
     "translate": "становиться, делаться"
   },
   {
-    "firstForm": "befall",
-    "secondForm": "befell",
-    "thirdForm": "befallen",
+    "english": "befall, befell, befallen",
     "translate": "случаться"
   },
   {
-    "firstForm": "begin",
-    "secondForm": "began",
-    "thirdForm": "begun",
+    "english": "begin, began, begun",
     "translate": "начинать(ся)"
   },
   {
-    "firstForm": "behold",
-    "secondForm": "beheld",
-    "thirdForm": "beheld",
+    "english": "behold, beheld, beheld",
     "translate": "вглядываться, замечать"
   },
   {
-    "firstForm": "bend",
-    "secondForm": "bent",
-    "thirdForm": "bent",
+    "english": "bend, bent, bent",
     "translate": "гнуть(ся), сгибать(ся)"
   },
   {
-    "firstForm": "beseech",
-    "secondForm": "besought",
-    "thirdForm": "besought",
+    "english": "beseech, besought, besought",
     "translate": "умолять, упрашивать"
   },
   {
-    "firstForm": "beset",
-    "secondForm": "beset",
-    "thirdForm": "beset",
+    "english": "beset, beset, beset",
     "translate": "окружать, осаждать"
   },
   {
-    "firstForm": "bet",
-    "secondForm": "bet",
-    "thirdForm": "bet",
+    "english": "bet, bet, bet",
     "translate": "держать пари"
   },
   {
-    "firstForm": "bid",
-    "secondForm": "bade",
-    "thirdForm": "bidden",
+    "english": "bid, bade, bidden",
     "translate": "предлагать цену, велеть, просить"
   },
   {
-    "firstForm": "bind",
-    "secondForm": "bound",
-    "thirdForm": "bound",
+    "english": "bind, bound, bound",
     "translate": "связывать, при-, за-"
   },
   {
-    "firstForm": "bite",
-    "secondForm": "bit",
-    "thirdForm": "bitten (bit)",
+    "english": "bite, bit, bitten (bit)",
     "translate": "кусать(ся)"
   },
   {
-    "firstForm": "bleed",
-    "secondForm": "bled",
-    "thirdForm": "bled",
+    "english": "bleed, bled, bled",
     "translate": "кровоточить, опорожнять"
   },
   {
-    "firstForm": "blow",
-    "secondForm": "blew",
-    "thirdForm": "blown",
+    "english": "blow, blew, blown",
     "translate": "дуть"
   },
   {
-    "firstForm": "break",
-    "secondForm": "broke",
-    "thirdForm": "broken",
+    "english": "break, broke, broken",
     "translate": "ломать, прерывать, разбивать"
   },
   {
-    "firstForm": "breed",
-    "secondForm": "bred",
-    "thirdForm": "bred",
+    "english": "breed, bred, bred",
     "translate": "порождать, разводить, выводить"
   },
   {
-    "firstForm": "bring",
-    "secondForm": "brought",
-    "thirdForm": "brought",
+    "english": "bring, brought, brought",
     "translate": "приносить, приводить"
   },
   {
-    "firstForm": "broadcast",
-    "secondForm": "broadcast",
-    "thirdForm": "broadcast",
+    "english": "broadcast, broadcast, broadcast",
     "translate": "вещать, распространять"
   },
   {
-    "firstForm": "build",
-    "secondForm": "built",
-    "thirdForm": "built",
+    "english": "build, built, built",
     "translate": "строить, встраивать"
   },
   {
-    "firstForm": "burn",
-    "secondForm": "burned",
-    "thirdForm": "burned",
+    "english": "burn, burned, burned",
     "translate": "гореть, сжигать"
   },
   {
-    "firstForm": "burst",
-    "secondForm": "burst",
-    "thirdForm": "burst",
+    "english": "burst, burst, burst",
     "translate": "взрывать(ся), раз-"
   },
   {
-    "firstForm": "buy",
-    "secondForm": "bought",
-    "thirdForm": "bought",
+    "english": "buy, bought, bought",
     "translate": "покупать, под-, вы-, ис-"
   },
   {
-    "firstForm": "can",
-    "secondForm": "could",
-    "thirdForm": "-",
+    "english": "can, could, -",
     "translate": "мочь физически"
   },
   {
-    "firstForm": "cast",
-    "secondForm": "cast",
-    "thirdForm": "cast",
+    "english": "cast, cast, cast",
     "translate": "бросать, лить (металл)"
   },
   {
-    "firstForm": "catch",
-    "secondForm": "caught",
-    "thirdForm": "caught",
+    "english": "catch, caught, caught",
     "translate": "ловить, схватывать"
   },
   {
-    "firstForm": "choose",
-    "secondForm": "chose",
-    "thirdForm": "chosen",
+    "english": "choose, chose, chosen",
     "translate": "выбирать"
   },
   {
-    "firstForm": "cling",
-    "secondForm": "clung",
-    "thirdForm": "clung",
+    "english": "cling, clung, clung",
     "translate": "прилипать, цеплять, льнуть"
   },
   {
-    "firstForm": "cleave",
-    "secondForm": "clove (cleft)",
-    "thirdForm": "cloven (cleft)",
+    "english": "cleave, clove (cleft), cloven (cleft)",
     "translate": "рассечь, расколоть"
   },
   {
-    "firstForm": "cloth",
-    "secondForm": "clothed",
-    "thirdForm": "clothed",
+    "english": "cloth, clothed, clothed",
     "translate": "оде(ва)ть"
   },
   {
-    "firstForm": "come",
-    "secondForm": "came",
-    "thirdForm": "come",
+    "english": "come, came, come",
     "translate": "приходить"
   },
   {
-    "firstForm": "cost",
-    "secondForm": "cost",
-    "thirdForm": "cost",
+    "english": "cost, cost, cost",
     "translate": "оценивать, стоить"
   },
   {
-    "firstForm": "creep",
-    "secondForm": "crept",
-    "thirdForm": "crept",
+    "english": "creep, crept, crept",
     "translate": "ползать"
   },
   {
-    "firstForm": "cut",
-    "secondForm": "cut",
-    "thirdForm": "cut",
+    "english": "cut, cut, cut",
     "translate": "резать, обрезать"
   },
   {
-    "firstForm": "dare",
-    "secondForm": "durst",
-    "thirdForm": "dared",
+    "english": "dare, durst, dared",
     "translate": "сметь"
   },
   {
-    "firstForm": "deal",
-    "secondForm": "dealt",
-    "thirdForm": "dealt",
+    "english": "deal, dealt, dealt",
     "translate": "торговать, рассматривать вопрос"
   },
   {
-    "firstForm": "dig",
-    "secondForm": "dug",
-    "thirdForm": "dug",
+    "english": "dig, dug, dug",
     "translate": "копать"
   },
   {
-    "firstForm": "do, does",
-    "secondForm": "did",
-    "thirdForm": "done",
+    "english": "do, does, did, done",
     "translate": "делать"
   },
   {
-    "firstForm": "draw",
-    "secondForm": "drew",
-    "thirdForm": "drawn",
+    "english": "draw, drew, drawn",
     "translate": "тащить, чертить"
   },
   {
-    "firstForm": "dream",
-    "secondForm": "dreamt",
-    "thirdForm": "dreamt",
+    "english": "dream, dreamt, dreamt",
     "translate": "видеть сны, мечтать"
   },
   {
-    "firstForm": "drink",
-    "secondForm": "drank",
-    "thirdForm": "drunk",
+    "english": "drink, drank, drunk",
     "translate": "пить, выпивать"
   },
   {
-    "firstForm": "drive",
-    "secondForm": "drove",
-    "thirdForm": "driven",
+    "english": "drive, drove, driven",
     "translate": "ехать, везти, двигать, гнать"
   },
   {
-    "firstForm": "dwell",
-    "secondForm": "dwelt",
-    "thirdForm": "dwelt",
+    "english": "dwell, dwelt, dwelt",
     "translate": "жить, обитать"
   },
   {
-    "firstForm": "eat",
-    "secondForm": "ate",
-    "thirdForm": "eaten",
+    "english": "eat, ate, eaten",
     "translate": "есть, принимать пищу"
   },
   {
-    "firstForm": "fall",
-    "secondForm": "fell",
-    "thirdForm": "fallen",
+    "english": "fall, fell, fallen",
     "translate": "падать, о-, вы-, нис-, в-"
   },
   {
-    "firstForm": "feed",
-    "secondForm": "fed",
-    "thirdForm": "fed",
+    "english": "feed, fed, fed",
     "translate": "кормить(ся)"
   },
   {
-    "firstForm": "feel",
-    "secondForm": "felt",
-    "thirdForm": "felt",
+    "english": "feel, felt, felt",
     "translate": "чувствовать"
   },
   {
-    "firstForm": "fight",
-    "secondForm": "fought",
-    "thirdForm": "fought",
+    "english": "fight, fought, fought",
     "translate": "бороться, сражаться"
   },
   {
-    "firstForm": "find",
-    "secondForm": "found",
-    "thirdForm": "found",
+    "english": "find, found, found",
     "translate": "находить"
   },
   {
-    "firstForm": "fit",
-    "secondForm": "fit",
-    "thirdForm": "fit",
+    "english": "fit, fit, fit",
     "translate": "подходить, годиться"
   },
   {
-    "firstForm": "flee",
-    "secondForm": "fled",
-    "thirdForm": "fled",
+    "english": "flee, fled, fled",
     "translate": "бежать, спасаться бегством"
   },
   {
-    "firstForm": "fling",
-    "secondForm": "flung",
-    "thirdForm": "flung",
+    "english": "fling, flung, flung",
     "translate": "кидать, бросать"
   },
   {
-    "firstForm": "fly",
-    "secondForm": "flew",
-    "thirdForm": "flown",
+    "english": "fly, flew, flown",
     "translate": "летать, про-, раз-~-ся"
   },
   {
-    "firstForm": "forbid",
-    "secondForm": "forbade",
-    "thirdForm": "forbidden",
+    "english": "forbid, forbade, forbidden",
     "translate": "запрещать"
   },
   {
-    "firstForm": "forecast",
-    "secondForm": "forecast",
-    "thirdForm": "forecast",
+    "english": "forecast, forecast, forecast",
     "translate": "предвидеть, -сказывать"
   },
   {
-    "firstForm": "forget",
-    "secondForm": "forgot",
-    "thirdForm": "forgotten",
+    "english": "forget, forgot, forgotten",
     "translate": "забывать"
   },
   {
-    "firstForm": "forbear",
-    "secondForm": "forbore",
-    "thirdForm": "forborne",
+    "english": "forbear, forbore, forborne",
     "translate": "отказываться, воздерживаться"
   },
   {
-    "firstForm": "foretell",
-    "secondForm": "foretold",
-    "thirdForm": "foretold",
+    "english": "foretell, foretold, foretold",
     "translate": "предсказывать, прогнозировать"
   },
   {
-    "firstForm": "forgive",
-    "secondForm": "forgave",
-    "thirdForm": "forgiven",
+    "english": "forgive, forgave, forgiven",
     "translate": "прощать,"
   },
   {
-    "firstForm": "forsake",
-    "secondForm": "forsook",
-    "thirdForm": "forsaken",
+    "english": "forsake, forsook, forsaken",
     "translate": "бросать, отказываться"
   },
   {
-    "firstForm": "freeze",
-    "secondForm": "froze",
-    "thirdForm": "frozen",
+    "english": "freeze, froze, frozen",
     "translate": "замерзать, замораживать"
   },
   {
-    "firstForm": "get",
-    "secondForm": "got",
-    "thirdForm": "got (gotten)",
+    "english": "get, got, got (gotten)",
     "translate": "получать, становиться"
   },
   {
-    "firstForm": "gild",
-    "secondForm": "gilt)",
-    "thirdForm": "gilt",
+    "english": "gild, gilt), gilt",
     "translate": "золотить, по-"
   },
   {
-    "firstForm": "give",
-    "secondForm": "gave",
-    "thirdForm": "given",
+    "english": "give, gave, given",
     "translate": "давать"
   },
   {
-    "firstForm": "go, goes",
-    "secondForm": "went",
-    "thirdForm": "gone",
+    "english": "go, goes, went, gone",
     "translate": "идти, ехать"
   },
   {
-    "firstForm": "grind",
-    "secondForm": "ground",
-    "thirdForm": "ground",
+    "english": "grind, ground, ground",
     "translate": "точить, молоть"
   },
   {
-    "firstForm": "grow",
-    "secondForm": "grew",
-    "thirdForm": "grown",
+    "english": "grow, grew, grown",
     "translate": "расти, выращивать"
   },
   {
-    "firstForm": "hang",
-    "secondForm": "hung",
-    "thirdForm": "hung",
+    "english": "hang, hung, hung",
     "translate": "висеть, вешать"
   },
   {
-    "firstForm": "have",
-    "secondForm": "had",
-    "thirdForm": "had",
+    "english": "have, had, had",
     "translate": "иметь, обладать"
   },
   {
-    "firstForm": "hew",
-    "secondForm": "hewed",
-    "thirdForm": "hewed",
+    "english": "hew, hewed, hewed",
     "translate": "рубить, тесать"
   },
   {
-    "firstForm": "hear",
-    "secondForm": "heard",
-    "thirdForm": "heard",
+    "english": "hear, heard, heard",
     "translate": "слышать"
   },
   {
-    "firstForm": "hide",
-    "secondForm": "hid",
-    "thirdForm": "hidden",
+    "english": "hide, hid, hidden",
     "translate": "прятать, прятаться"
   },
   {
-    "firstForm": "hit",
-    "secondForm": "hit",
-    "thirdForm": "hit",
+    "english": "hit, hit, hit",
     "translate": "ударять, поражать"
   },
   {
-    "firstForm": "hold",
-    "secondForm": "held",
-    "thirdForm": "held",
+    "english": "hold, held, held",
     "translate": "держать (владеть)"
   },
   {
-    "firstForm": "hurt",
-    "secondForm": "hurt",
-    "thirdForm": "hurt",
+    "english": "hurt, hurt, hurt",
     "translate": "повредить, ушибить, ранить"
   },
   {
-    "firstForm": "keep",
-    "secondForm": "kept",
-    "thirdForm": "kept",
+    "english": "keep, kept, kept",
     "translate": "держать, хранить"
   },
   {
-    "firstForm": "kneel",
-    "secondForm": "knelt",
-    "thirdForm": "knelt",
+    "english": "kneel, knelt, knelt",
     "translate": "становиться на колени"
   },
   {
-    "firstForm": "knit",
-    "secondForm": "knit",
-    "thirdForm": "knit",
+    "english": "knit, knit, knit",
     "translate": "вязать"
   },
   {
-    "firstForm": "know",
-    "secondForm": "knew",
-    "thirdForm": "known",
+    "english": "know, knew, known",
     "translate": "знать"
   },
   {
-    "firstForm": "lay",
-    "secondForm": "laid",
-    "thirdForm": "laid",
+    "english": "lay, laid, laid",
     "translate": "класть"
   },
   {
-    "firstForm": "lead",
-    "secondForm": "led",
-    "thirdForm": "led",
+    "english": "lead, led, led",
     "translate": "вести, сопровождать"
   },
   {
-    "firstForm": "lean",
-    "secondForm": "leant",
-    "thirdForm": "leant",
+    "english": "lean, leant, leant",
     "translate": "опираться, прислоняться"
   },
   {
-    "firstForm": "leap",
-    "secondForm": "leapt",
-    "thirdForm": "leapt",
+    "english": "leap, leapt, leapt",
     "translate": "прыгать"
   },
   {
-    "firstForm": "learn",
-    "secondForm": "learned",
-    "thirdForm": "learned",
+    "english": "learn, learned, learned",
     "translate": "учиться, на-, узнавать"
   },
   {
-    "firstForm": "leave",
-    "secondForm": "left",
-    "thirdForm": "left",
+    "english": "leave, left, left",
     "translate": "оставлять, уезжать"
   },
   {
-    "firstForm": "lend",
-    "secondForm": "lent",
-    "thirdForm": "lent",
+    "english": "lend, lent, lent",
     "translate": "одалживать, давать взаймы"
   },
   {
-    "firstForm": "let",
-    "secondForm": "let",
-    "thirdForm": "let",
+    "english": "let, let, let",
     "translate": "позволять, сдавать в наём"
   },
   {
-    "firstForm": "lie",
-    "secondForm": "lay",
-    "thirdForm": "lain",
+    "english": "lie, lay, lain",
     "translate": "лежать"
   },
   {
-    "firstForm": "light",
-    "secondForm": "lit",
-    "thirdForm": "lit",
+    "english": "light, lit, lit",
     "translate": "зажигать, освещать"
   },
   {
-    "firstForm": "lose",
-    "secondForm": "lost",
-    "thirdForm": "lost",
+    "english": "lose, lost, lost",
     "translate": "терять"
   },
   {
-    "firstForm": "make",
-    "secondForm": "made",
-    "thirdForm": "made",
+    "english": "make, made, made",
     "translate": "делать, заставлять"
   },
   {
-    "firstForm": "may",
-    "secondForm": "might",
-    "thirdForm": "-",
+    "english": "may, might, -",
     "translate": "мочь, иметь право"
   },
   {
-    "firstForm": "mean",
-    "secondForm": "meant",
-    "thirdForm": "meant",
+    "english": "mean, meant, meant",
     "translate": "значить, подразумевать"
   },
   {
-    "firstForm": "meet",
-    "secondForm": "met",
-    "thirdForm": "met",
+    "english": "meet, met, met",
     "translate": "встречать, знакомиться"
   },
   {
-    "firstForm": "mishear",
-    "secondForm": "misheard",
-    "thirdForm": "misheard",
+    "english": "mishear, misheard, misheard",
     "translate": "ослышаться"
   },
   {
-    "firstForm": "mislay",
-    "secondForm": "mislaid",
-    "thirdForm": "mislaid",
+    "english": "mislay, mislaid, mislaid",
     "translate": "затерять, (по)девать"
   },
   {
-    "firstForm": "mistake",
-    "secondForm": "mistook",
-    "thirdForm": "mistaken",
+    "english": "mistake, mistook, mistaken",
     "translate": "ошибаться, заблуждаться"
   },
   {
-    "firstForm": "mow",
-    "secondForm": "mowed",
-    "thirdForm": "mowed",
+    "english": "mow, mowed, mowed",
     "translate": "косить"
   },
   {
-    "firstForm": "overtake",
-    "secondForm": "overtook",
-    "thirdForm": "overtaken",
+    "english": "overtake, overtook, overtaken",
     "translate": "догнать, на-, обо-, обруш."
   },
   {
-    "firstForm": "pay",
-    "secondForm": "paid",
-    "thirdForm": "paid",
+    "english": "pay, paid, paid",
     "translate": "платить"
   },
   {
-    "firstForm": "prove",
-    "secondForm": "proved",
-    "thirdForm": "proved (proven)",
+    "english": "prove, proved, proved (proven)",
     "translate": "доказывать, удостоверять"
   },
   {
-    "firstForm": "put",
-    "secondForm": "put",
-    "thirdForm": "put",
+    "english": "put, put, put",
     "translate": "класть"
   },
   {
-    "firstForm": "quit",
-    "secondForm": "quit",
-    "thirdForm": "quit",
+    "english": "quit, quit, quit",
     "translate": "оставлять, покидать"
   },
   {
-    "firstForm": "read",
-    "secondForm": "read",
-    "thirdForm": "read",
+    "english": "read, read, read",
     "translate": "читать"
   },
   {
-    "firstForm": "rebuild",
-    "secondForm": "rebuilt",
-    "thirdForm": "rebuilt",
+    "english": "rebuild, rebuilt, rebuilt",
     "translate": "перестраивать, восстанавливать"
   },
   {
-    "firstForm": "rid",
-    "secondForm": "rid",
-    "thirdForm": "rid",
+    "english": "rid, rid, rid",
     "translate": "освобождать, избавлять"
   },
   {
-    "firstForm": "ride",
-    "secondForm": "rode",
-    "thirdForm": "ridden",
+    "english": "ride, rode, ridden",
     "translate": "ехать верхом"
   },
   {
-    "firstForm": "ring",
-    "secondForm": "rang",
-    "thirdForm": "rung",
+    "english": "ring, rang, rung",
     "translate": "звонить, звенеть"
   },
   {
-    "firstForm": "rise",
-    "secondForm": "rose",
-    "thirdForm": "risen",
+    "english": "rise, rose, risen",
     "translate": "подниматься, восходить"
   },
   {
-    "firstForm": "run",
-    "secondForm": "ran",
-    "thirdForm": "run",
+    "english": "run, ran, run",
     "translate": "бежать, течь"
   },
   {
-    "firstForm": "saw",
-    "secondForm": "sawed",
-    "thirdForm": "sawed",
+    "english": "saw, sawed, sawed",
     "translate": "пилить"
   },
   {
-    "firstForm": "say",
-    "secondForm": "said",
-    "thirdForm": "said",
+    "english": "say, said, said",
     "translate": "говорить, сказать"
   },
   {
-    "firstForm": "see",
-    "secondForm": "saw",
-    "thirdForm": "seen",
+    "english": "see, saw, seen",
     "translate": "видеть"
   },
   {
-    "firstForm": "seek",
-    "secondForm": "sought",
-    "thirdForm": "sought",
+    "english": "seek, sought, sought",
     "translate": "искать"
   },
   {
-    "firstForm": "sell",
-    "secondForm": "sold",
-    "thirdForm": "sold",
+    "english": "sell, sold, sold",
     "translate": "продавать"
   },
   {
-    "firstForm": "send",
-    "secondForm": "sent",
-    "thirdForm": "sent",
+    "english": "send, sent, sent",
     "translate": "посылать, отправлять"
   },
   {
-    "firstForm": "set",
-    "secondForm": "set",
-    "thirdForm": "set",
+    "english": "set, set, set",
     "translate": "помещать, ставить"
   },
   {
-    "firstForm": "sew",
-    "secondForm": "sewed",
-    "thirdForm": "sewed",
+    "english": "sew, sewed, sewed",
     "translate": "шить"
   },
   {
-    "firstForm": "shake",
-    "secondForm": "shook",
-    "thirdForm": "shaken",
+    "english": "shake, shook, shaken",
     "translate": "трясти"
   },
   {
-    "firstForm": "shall",
-    "secondForm": "should",
-    "thirdForm": "-",
+    "english": "shall, should, -",
     "translate": "быть должным"
   },
   {
-    "firstForm": "shave",
-    "secondForm": "shaved",
-    "thirdForm": "shaven",
+    "english": "shave, shaved, shaven",
     "translate": "брить(ся)"
   },
   {
-    "firstForm": "shear",
-    "secondForm": "sheared",
-    "thirdForm": "sheared",
+    "english": "shear, sheared, sheared",
     "translate": "стричь, резать; лишать"
   },
   {
-    "firstForm": "shed",
-    "secondForm": "shed",
-    "thirdForm": "shed",
+    "english": "shed, shed, shed",
     "translate": "сбрасывать, проливать"
   },
   {
-    "firstForm": "shine",
-    "secondForm": "shone",
-    "thirdForm": "shone",
+    "english": "shine, shone, shone",
     "translate": "сиять, светить"
   },
   {
-    "firstForm": "shoe",
-    "secondForm": "shod",
-    "thirdForm": "shod",
+    "english": "shoe, shod, shod",
     "translate": "обувать, подковывать"
   },
   {
-    "firstForm": "shoot",
-    "secondForm": "shot",
-    "thirdForm": "shot",
+    "english": "shoot, shot, shot",
     "translate": "стрелять"
   },
   {
-    "firstForm": "show",
-    "secondForm": "showed",
-    "thirdForm": "shown",
+    "english": "show, showed, shown",
     "translate": "показывать"
   },
   {
-    "firstForm": "shrink",
-    "secondForm": "shrunk",
-    "thirdForm": "shrunk",
+    "english": "shrink, shrunk, shrunk",
     "translate": "сокращаться, отпрянуть"
   },
   {
-    "firstForm": "shut",
-    "secondForm": "shut",
-    "thirdForm": "shut",
+    "english": "shut, shut, shut",
     "translate": "закрывать"
   },
   {
-    "firstForm": "sing",
-    "secondForm": "sang",
-    "thirdForm": "sung",
+    "english": "sing, sang, sung",
     "translate": "петь"
   },
   {
-    "firstForm": "sink",
-    "secondForm": "sunk",
-    "thirdForm": "sunk",
+    "english": "sink, sunk, sunk",
     "translate": "опускаться, тонуть"
   },
   {
-    "firstForm": "sit",
-    "secondForm": "sat",
-    "thirdForm": "sat",
+    "english": "sit, sat, sat",
     "translate": "сидеть"
   },
   {
-    "firstForm": "slay",
-    "secondForm": "slew",
-    "thirdForm": "slain",
+    "english": "slay, slew, slain",
     "translate": "убивать, уничтожать"
   },
   {
-    "firstForm": "sleep",
-    "secondForm": "slept",
-    "thirdForm": "slept",
+    "english": "sleep, slept, slept",
     "translate": "спать"
   },
   {
-    "firstForm": "slide",
-    "secondForm": "slid",
-    "thirdForm": "slid",
+    "english": "slide, slid, slid",
     "translate": "скользить"
   },
   {
-    "firstForm": "sling",
-    "secondForm": "slung",
-    "thirdForm": "slung",
+    "english": "sling, slung, slung",
     "translate": "швырять, подвешивать"
   },
   {
-    "firstForm": "slit",
-    "secondForm": "slit",
-    "thirdForm": "slit",
+    "english": "slit, slit, slit",
     "translate": "резать в длину, вдоль"
   },
   {
-    "firstForm": "smell",
-    "secondForm": "smelt",
-    "thirdForm": "smelt",
+    "english": "smell, smelt, smelt",
     "translate": "пахнуть, нюхать"
   },
   {
-    "firstForm": "sow",
-    "secondForm": "sowed",
-    "thirdForm": "sowed",
+    "english": "sow, sowed, sowed",
     "translate": "сеять"
   },
   {
-    "firstForm": "speak",
-    "secondForm": "spoke",
-    "thirdForm": "spoken",
+    "english": "speak, spoke, spoken",
     "translate": "говорить"
   },
   {
-    "firstForm": "speed",
-    "secondForm": "speeded",
-    "thirdForm": "speeded",
+    "english": "speed, speeded, speeded",
     "translate": "спешить, ускорять"
   },
   {
-    "firstForm": "spell",
-    "secondForm": "spelt",
-    "thirdForm": "spelt",
+    "english": "spell, spelt, spelt",
     "translate": "писать, произносить слово по буквам"
   },
   {
-    "firstForm": "spend",
-    "secondForm": "spent",
-    "thirdForm": "spent",
+    "english": "spend, spent, spent",
     "translate": "тратить, истощать"
   },
   {
-    "firstForm": "spill",
-    "secondForm": "spilt",
-    "thirdForm": "spilt",
+    "english": "spill, spilt, spilt",
     "translate": "проливать"
   },
   {
-    "firstForm": "spin",
-    "secondForm": "spun",
-    "thirdForm": "spun",
+    "english": "spin, spun, spun",
     "translate": "прясть"
   },
   {
-    "firstForm": "spit",
-    "secondForm": "spat",
-    "thirdForm": "spat",
+    "english": "spit, spat, spat",
     "translate": "плевать, насаживать,"
   },
   {
-    "firstForm": "split",
-    "secondForm": "split",
-    "thirdForm": "split",
+    "english": "split, split, split",
     "translate": "раскалывать, расщеплять"
   },
   {
-    "firstForm": "spoil",
-    "secondForm": "spoiled",
-    "thirdForm": "spoiled",
+    "english": "spoil, spoiled, spoiled",
     "translate": "портить, баловать"
   },
   {
-    "firstForm": "spread",
-    "secondForm": "spread",
-    "thirdForm": "spread",
+    "english": "spread, spread, spread",
     "translate": "распространяться"
   },
   {
-    "firstForm": "spring",
-    "secondForm": "sprung",
-    "thirdForm": "sprung",
+    "english": "spring, sprung, sprung",
     "translate": "прыгать, вскочить"
   },
   {
-    "firstForm": "stand",
-    "secondForm": "stood",
-    "thirdForm": "stood",
+    "english": "stand, stood, stood",
     "translate": "стоять"
   },
   {
-    "firstForm": "steal",
-    "secondForm": "stole",
-    "thirdForm": "stolen",
+    "english": "steal, stole, stolen",
     "translate": "воровать, красть"
   },
   {
-    "firstForm": "stick",
-    "secondForm": "stuck",
-    "thirdForm": "stuck",
+    "english": "stick, stuck, stuck",
     "translate": "втыкать, приклеивать(ся), липнуть"
   },
   {
-    "firstForm": "sting",
-    "secondForm": "stung",
-    "thirdForm": "stung",
+    "english": "sting, stung, stung",
     "translate": "жалить"
   },
   {
-    "firstForm": "stink",
-    "secondForm": "stank",
-    "thirdForm": "stunk",
+    "english": "stink, stank, stunk",
     "translate": "вонять, отталкивать"
   },
   {
-    "firstForm": "strew",
-    "secondForm": "strewed",
-    "thirdForm": "strewn",
+    "english": "strew, strewed, strewn",
     "translate": "усеять, разбрасывать"
   },
   {
-    "firstForm": "stride",
-    "secondForm": "strode",
-    "thirdForm": "stridden",
+    "english": "stride, strode, stridden",
     "translate": "шагать"
   },
   {
-    "firstForm": "strike",
-    "secondForm": "struck",
-    "thirdForm": "struck",
+    "english": "strike, struck, struck",
     "translate": "ударять, поражать, бастовать"
   },
   {
-    "firstForm": "string",
-    "secondForm": "strung",
-    "thirdForm": "strung",
+    "english": "string, strung, strung",
     "translate": "связывать, натягивать,"
   },
   {
-    "firstForm": "strive",
-    "secondForm": "strove",
-    "thirdForm": "striven",
+    "english": "strive, strove, striven",
     "translate": "стремиться, стараться"
   },
   {
-    "firstForm": "swear",
-    "secondForm": "swore",
-    "thirdForm": "sworn",
+    "english": "swear, swore, sworn",
     "translate": "клясться, присягать"
   },
   {
-    "firstForm": "sweep",
-    "secondForm": "swept",
-    "thirdForm": "swept",
+    "english": "sweep, swept, swept",
     "translate": "мести"
   },
   {
-    "firstForm": "swell",
-    "secondForm": "swelled",
-    "thirdForm": "swollen",
+    "english": "swell, swelled, swollen",
     "translate": "пахнуть, раздуваться"
   },
   {
-    "firstForm": "swim",
-    "secondForm": "swam",
-    "thirdForm": "swum",
+    "english": "swim, swam, swum",
     "translate": "плавать"
   },
   {
-    "firstForm": "swing",
-    "secondForm": "swung",
-    "thirdForm": "swung",
+    "english": "swing, swung, swung",
     "translate": "качать(ся), размахивать"
   },
   {
-    "firstForm": "take",
-    "secondForm": "took",
-    "thirdForm": "taken",
+    "english": "take, took, taken",
     "translate": "брать"
   },
   {
-    "firstForm": "teach",
-    "secondForm": "taught",
-    "thirdForm": "taught",
+    "english": "teach, taught, taught",
     "translate": "обучать, учить"
   },
   {
-    "firstForm": "tear",
-    "secondForm": "tore",
-    "thirdForm": "torn",
+    "english": "tear, tore, torn",
     "translate": "рвать, раз-, с-, от-"
   },
   {
-    "firstForm": "tell",
-    "secondForm": "told",
-    "thirdForm": "told",
+    "english": "tell, told, told",
     "translate": "рассказывать, сообщать"
   },
   {
-    "firstForm": "think",
-    "secondForm": "thought",
-    "thirdForm": "thought",
+    "english": "think, thought, thought",
     "translate": "думать"
   },
   {
-    "firstForm": "throw",
-    "secondForm": "threw",
-    "thirdForm": "thrown",
+    "english": "throw, threw, thrown",
     "translate": "кидать, бросать"
   },
   {
-    "firstForm": "thrust",
-    "secondForm": "thrust",
-    "thirdForm": "thrust",
+    "english": "thrust, thrust, thrust",
     "translate": "толкать, колоть, выгонять, сунуть"
   },
   {
-    "firstForm": "tread",
-    "secondForm": "trod",
-    "thirdForm": "trodden",
+    "english": "tread, trod, trodden",
     "translate": "ступать"
   },
   {
-    "firstForm": "unbend",
-    "secondForm": "unbent",
-    "thirdForm": "unbent",
+    "english": "unbend, unbent, unbent",
     "translate": "разгибаться"
   },
   {
-    "firstForm": "undergo",
-    "secondForm": "underwent",
-    "thirdForm": "undergone",
+    "english": "undergo, underwent, undergone",
     "translate": "испытывать, переносить"
   },
   {
-    "firstForm": "understand",
-    "secondForm": "understood",
-    "thirdForm": "understood",
+    "english": "understand, understood, understood",
     "translate": "понимать"
   },
   {
-    "firstForm": "undertake",
-    "secondForm": "undertook",
-    "thirdForm": "undertaken",
+    "english": "undertake, undertook, undertaken",
     "translate": "предпринимать, гарантировать"
   },
   {
-    "firstForm": "upset",
-    "secondForm": "upset",
-    "thirdForm": "upset",
+    "english": "upset, upset, upset",
     "translate": "опрокидывать, обжимать"
   },
   {
-    "firstForm": "wake",
-    "secondForm": "woke, waked",
-    "thirdForm": "woken",
+    "english": "wake, woke, waked, woken",
     "translate": "будить, просыпаться"
   },
   {
-    "firstForm": "wear",
-    "secondForm": "wore",
-    "thirdForm": "worn",
+    "english": "wear, wore, worn",
     "translate": "носить (одежду)"
   },
   {
-    "firstForm": "weave",
-    "secondForm": "wove",
-    "thirdForm": "woven",
+    "english": "weave, wove, woven",
     "translate": "ткать"
   },
   {
-    "firstForm": "wed",
-    "secondForm": "wed",
-    "thirdForm": "wed",
+    "english": "wed, wed, wed",
     "translate": "венчать(ся)"
   },
   {
-    "firstForm": "weep",
-    "secondForm": "wept",
-    "thirdForm": "wept",
+    "english": "weep, wept, wept",
     "translate": "плакать"
   },
   {
-    "firstForm": "will",
-    "secondForm": "would",
-    "thirdForm": "-",
+    "english": "will, would, -",
     "translate": "хотеть быть"
   },
   {
-    "firstForm": "wet",
-    "secondForm": "wet",
-    "thirdForm": "wet",
+    "english": "wet, wet, wet",
     "translate": "мочить, вы-, про-"
   },
   {
-    "firstForm": "win",
-    "secondForm": "won",
-    "thirdForm": "won",
+    "english": "win, won, won",
     "translate": "выигрывать, получать"
   },
   {
-    "firstForm": "wind",
-    "secondForm": "wound",
-    "thirdForm": "wound",
+    "english": "wind, wound, wound",
     "translate": "заводить (механизм), виться"
   },
   {
-    "firstForm": "withdraw",
-    "secondForm": "withdrew",
-    "thirdForm": "withdrawn",
+    "english": "withdraw, withdrew, withdrawn",
     "translate": "брать назад, отнимать"
   },
   {
-    "firstForm": "wring",
-    "secondForm": "wrung",
-    "thirdForm": "wrung",
+    "english": "wring, wrung, wrung",
     "translate": "жать, выжимать, скручивать"
   },
   {
-    "firstForm": "write",
-    "secondForm": "wrote",
-    "thirdForm": "written",
+    "english": "write, wrote, written",
     "translate": "писать"
   }
 ]
